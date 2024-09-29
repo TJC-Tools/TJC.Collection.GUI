@@ -33,15 +33,8 @@
   </ItemGroup>
   <!-- DEPENDENCIES -->
   <ItemGroup>
-	<PackageReference Include="TJC.EnumFlags" Version="0.6.0" />
+	<PackageReference Include="TJC.Collection.Core" Version="0.1.0" />
 	<PackageReference Include="TJC.GUI" Version="0.1.12" />
-	<PackageReference Include="TJC.Inclusion" Version="0.1.6" />
-	<PackageReference Include="TJC.Logging" Version="0.1.10" />
-	<PackageReference Include="TJC.Priority" Version="0.1.5" />
-	<PackageReference Include="TJC.Singleton" Version="0.1.8" />
-	<PackageReference Include="TJC.StringExtensions" Version="0.1.9" />
-	<PackageReference Include="TJC.TimeExtensions" Version="0.1.4" />
-	<PackageReference Include="TJC.AssemblyExtensions" Version="0.1.5" />
   </ItemGroup>
   <!-- TASKS -->
   <UsingTask TaskName="ReadFileContent" TaskFactory="RoslynCodeTaskFactory" AssemblyName="Microsoft.Build.Tasks.Core">
