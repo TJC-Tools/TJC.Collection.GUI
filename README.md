@@ -2,4 +2,4 @@
 
 [![NuGet Downloads](https://img.shields.io/nuget/dt/TJC.Collection.GUI)](https://www.nuget.org/packages/TJC.Collection.GUI) ![Size](https://img.shields.io/github/repo-size/TJC-Tools/TJC.Collection.GUI) [![License](https://img.shields.io/github/license/TJC-Tools/TJC.Collection.GUI.svg)](LICENSE)
 
-[![codecov](https://codecov.io/gh/TJC-Tools/TJC.Test/graph/badge.svg?token=92707C5KH4)](https://codecov.io/gh/TJC-Tools/TJC.Collection.GUI)
+[![codecov](https://codecov.io/gh/TJC-Tools/TJC.Collection.GUI/graph/badge.svg?token=0B4L331E2L)](https://codecov.io/gh/TJC-Tools/TJC.Collection.GUI)
