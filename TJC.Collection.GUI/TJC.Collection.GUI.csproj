@@ -33,7 +33,7 @@
   </ItemGroup>
   <!-- DEPENDENCIES -->
   <ItemGroup>
-    <PackageReference Include="TJC.Collection.Core" Version="0.12.0" />
+    <PackageReference Include="TJC.Collection.Core" Version="0.13.0" />
     <PackageReference Include="TJC.GUI" Version="0.9.0" />
   </ItemGroup>
   <!-- TASKS -->
