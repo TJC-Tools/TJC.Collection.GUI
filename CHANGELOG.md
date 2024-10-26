@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.17.1] - 2024-10-26
+
 ### Added
 
 - Release notes to the NuGet Package
@@ -62,7 +64,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Package reference TJC.Collection.Core
 - Package reference TJC.GUI
 
-[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.GUI/compare/v0.17.0...HEAD
+[Unreleased]: https://github.com/TJC-Tools/TJC.Collection.GUI/compare/v0.17.1...HEAD
+
+[0.17.1]: https://github.com/TJC-Tools/TJC.Collection.GUI/compare/v0.17.0...v0.17.1
 
 [0.17.0]: https://github.com/TJC-Tools/TJC.Collection.GUI/compare/v0.16.0...v0.17.0
 
